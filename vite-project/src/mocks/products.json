@@ -1,0 +1,161 @@
+[
+    {
+      "id": 1,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_838316-MLA32664034102_102019-O.webp",
+      "title": "Producto 1",
+      "price": 19.99,
+      "category": "Mujeres",
+      "itHasDues": true,
+      "isAnOffer": false,
+      "stock": 5
+    },
+    {
+      "id": 2,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_675280-MLA54976479313_042023-O.webp",
+      "title": "Producto 2",
+      "category": "Hombres",
+      "price": 29.99,
+      "itHasDues": false,
+      "isAnOffer": true,
+      "stock": 8
+    },
+    {
+      "id": 3,
+      "image": "https://dinobutelli.com.ar/wp-content/uploads/2023/02/zapato-vestir-mujer-stilettos-dinobutelli-cuero-44.jpg",
+      "title": "Producto 3",
+      "price": 39.99,
+      "category": "Mujeres",
+      "itHasDues": true,
+      "isAnOffer": true,
+      "stock": 10
+    },
+    {
+      "id": 4,
+      "image": "https://grimoldimediamanager.grimoldi.com/MediaFiles/Grimoldi/2022/7/27/7584039.jpg",
+      "title": "Producto 4",
+      "price": 49.99,
+      "category": "Niños",
+      "itHasDues": false,
+      "isAnOffer": false,
+      "stock": 11
+    },
+    {
+      "id": 5,
+      "image": "https://equipovallejo.vtexassets.com/arquivos/ids/237950-800-auto?v=638176961033300000&width=800&height=auto&aspect=true",
+      "title": "Producto 5",
+      "price": 59.99,
+      "category": "Mujeres",
+      "itHasDues": true,
+      "isAnOffer": true,
+      "stock": 10
+    },
+    {
+      "id": 6,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_602562-MLA50433537723_062022-O.webp",
+      "title": "Producto 6",
+      "price": 69.99,
+      "category": "Niños",
+      "itHasDues": false,
+      "isAnOffer": false,
+      "stock": 15
+    },
+    {
+      "id": 7,
+      "image": "https://acdn.mitiendanube.com/stores/001/668/651/products/zapato-mujer-copy-11-5a8341c210e6e526b316644009498688-1024-1024.webp",
+      "title": "Producto 7",
+      "price": 79.99,
+      "category": "Mujeres",
+  
+      "itHasDues": true,
+      "isAnOffer": true,
+      "stock": 50
+    },
+    {
+      "id": 8,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_801930-MLA70455011030_072023-O.webp",
+      "title": "Producto 8",
+      "price": 89.99,
+      "category": "Hombres",
+  
+      "itHasDues": false,
+      "isAnOffer": false,
+      "stock": 15
+    },
+    {
+      "id": 9,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_648307-MLA54930455436_042023-O.webp",
+      "title": "Producto 9",
+      "price": 99.99,
+      "category": "Mujeres",
+  
+      "itHasDues": true,
+      "isAnOffer": true,
+      "stock": 30
+    },
+    {
+      "id": 10,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_854983-MLA51202544847_082022-O.webp",
+      "title": "Producto 10",
+      "price": 109.99,
+      "category": "Mujeres",
+  
+      "itHasDues": false,
+      "isAnOffer": false,
+      "stock": 20
+    },
+    {
+      "id": 11,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_683469-MLA49005416779_022022-O.webp",
+      "title": "Producto 11",
+      "price": 119.99,
+      "category": "Niños",
+  
+      "itHasDues": true,
+      "isAnOffer": true,
+      "stock": 18
+    },
+    {
+      "id": 12,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_679576-MLA53601592095_022023-O.webp",
+      "title": "Producto 12",
+      "price": 129.99,
+      "category": "Hombres",
+  
+      "itHasDues": false,
+      "isAnOffer": false,
+      "stock": 12
+    },
+    {
+      "id": 13,
+      "image": "https://dinobutelli.com.ar/wp-content/uploads/2023/07/zapato-mujer-oficina-azafata-1.jpg",
+      "title": "Producto 13",
+      "price": 139.99,
+      "category": "Mujeres",
+  
+      "itHasDues": true,
+      "isAnOffer": true,
+      "stock": 1
+    },
+    {
+      "id": 14,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_842523-MLA53176937817_012023-O.webp",
+      "title": "Producto 14",
+      "price": 149.99,
+      "category": "Niños",
+  
+      "itHasDues": false,
+      "isAnOffer": false,
+      "stock": 10
+    },
+    {
+      "id": 15,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_634426-MLA53776663321_022023-O.webp",
+      "title": "Producto 15",
+      "price": 159.99,
+      "category": "Hombres",
+  
+      "itHasDues": true,
+      "isAnOffer": true,
+      "stock": 11
+    }   
+]
